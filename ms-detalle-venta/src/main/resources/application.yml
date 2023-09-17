@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms-cliente-service
+    name: ms-detalle-venta-service
   profiles:
     active: development
   config:

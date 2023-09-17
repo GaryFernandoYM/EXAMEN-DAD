@@ -1,12 +1,6 @@
 spring:
   application:
-    namspring:
-      application:
-        name: ms-venta-service
-      profiles:
-        active: development
-      config:
-        ime: ms-venta-service
+    name: ms-venta-service
   profiles:
     active: development
   config:
